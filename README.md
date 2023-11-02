@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-# Welcome to My Developer Portfolio 👋
-
-Hello, I'm [Your Name], a passionate software developer with a love for creating amazing web and mobile applications. I enjoy turning ideas into reality and crafting elegant solutions to complex problems.
+Hello, I'm Iskandar, a passionate software developer with a love for creating amazing web and mobile applications. I enjoy turning ideas into reality and crafting elegant solutions to complex problems.
 
 🔭 I’m currently working on:
 - [Project 1](link): A description of what this project is about.
@@ -28,7 +26,7 @@ Hello, I'm [Your Name], a passionate software developer with a love for creating
 - ...
 
 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](link)
+- LinkedIn: [Your LinkedIn Profile]([link](https://www.linkedin.com/in/iskandar-isman/))
 - Email: [Your Email](mailto:youremail@example.com)
 
 💬 Let's connect and collaborate on exciting projects!
