@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Iskandar, a passionate software developer with a love for creating amazing web and mobile applications. I enjoy turning ideas into reality and crafting elegant solutions to complex problems.
+Hello, I'm Iskandar, a passionate software developer with a love for creating amazing web applications. I enjoy turning ideas into reality and crafting elegant solutions to complex problems.
 
 🔭 I’m currently working on:
 - [Project 1](link): A description of what this project is about.
@@ -18,16 +18,13 @@ Hello, I'm Iskandar, a passionate software developer with a love for creating am
 - ...
 
 🚀 My skills and interests:
-- Front-end Development: HTML, CSS, JavaScript, React, Vue, ...
-- Back-end Development: Node.js, Python, Express, ...
-- Mobile App Development: React Native, Flutter, ...
-- Database Management: SQL, MongoDB, Firebase, ...
-- DevOps: Docker, CI/CD, AWS, ...
-- ...
+- Front-end Development: HTML, CSS, JavaScript, React, Vue
+- Back-end Development: PHP, Laravel Framework
+- Database Management: MySQL, MongoDB, Firebase
+- DevOps: Docker, CI/CD, Git
 
 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/iskandar-isman/)
-- Email: [Your Email](mailto:youremail@example.com)
+- LinkedIn: [Iskandar Isman](https://www.linkedin.com/in/iskandar-isman/)
 
 💬 Let's connect and collaborate on exciting projects!
 
@@ -60,7 +57,7 @@ Hello, I'm Iskandar, a passionate software developer with a love for creating am
 
 Thanks for visiting! Feel free to explore my work, contribute to open-source projects, and reach out for collaboration or any inquiries.
 
-📄 [View My Resume/CV](link) | ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+📄 [View My Resume/CV](link) | ![GitHub followers](https://img.shields.io/github/followers/iskandar93?style=social)
 
 
 
