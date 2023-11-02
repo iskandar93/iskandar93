@@ -12,11 +12,6 @@ Hello, I'm Iskandar, a passionate software developer with a love for creating am
 - [Technology/Tool 2](link): A brief description of what you're learning.
 - ...
 
-💼 My work experience:
-- [Company 1](link): Description of your role and achievements.
-- [Company 2](link): Description of your role and achievements.
-- ...
-
 🚀 My skills and interests:
 - Front-end Development: HTML, CSS, JavaScript, React, Vue
 - Back-end Development: PHP, Laravel Framework
@@ -36,30 +31,22 @@ Hello, I'm Iskandar, a passionate software developer with a love for creating am
 
 ## Featured Projects
 
-1. **[Project 1](link)**
-   - Description: A brief overview of what the project is about.
-   - Technologies: List the technologies used.
-   - [Demo](link) | [Code](link)
+1. **[Security And Integrated Flood Operation Network](https://ferins.my/)**
+   - Description: The project is for MBJB that focuses on security and tracking floods in Johor
+   - Technologies: Laravel, Vue JS, REST API, MySQL, Git, Flutter, IoT
 
-2. **[Project 2](link)**
-   - Description: A brief overview of what the project is about.
-   - Technologies: List the technologies used.
-   - [Demo](link) | [Code](link)
+2. **[Online Business Intelligent Tools](https://onbit.my/)**
+   - Description: A project that provides services to our client on handling and managing operations between business owners and agents to sell their      
+     products.
+   - Technologies: Laravel, Vue JS, MySQL, Flutter, Git
 
-3. **[Project 3](link)**
-   - Description: A brief overview of what the project is about.
-   - Technologies: List the technologies used.
-   - [Demo](link) | [Code](link)
-
-...
+3. **[Campus Management System](https://demo.vialing.com/)**
+   - Description: A project that provides services to our client on managing campus management in universities and schools.
+   - Technologies: Laravel, MySQL, Git
 
 ---
 
 Thanks for visiting! Feel free to explore my work, contribute to open-source projects, and reach out for collaboration or any inquiries.
-
-📄 [View My Resume/CV](link) | ![GitHub followers](https://img.shields.io/github/followers/iskandar93?style=social)
-
-
 
 <!--
 **iskandar93/iskandar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
