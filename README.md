@@ -26,14 +26,14 @@ Hello, I'm Iskandar, a passionate software developer with a love for creating am
 - ...
 
 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile]([link](https://www.linkedin.com/in/iskandar-isman/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/iskandar-isman/)
 - Email: [Your Email](mailto:youremail@example.com)
 
 💬 Let's connect and collaborate on exciting projects!
 
 🌐 Check out my portfolio website: [Your Portfolio Website](link)
 
-👨‍💻 Explore my projects below or visit my [GitHub repositories](https://github.com/your-username) for more!
+👨‍💻 Explore my projects below or visit my [GitHub repositories](https://github.com/iskandar93) for more!
 
 ---
 
