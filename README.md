@@ -4,9 +4,9 @@ I'm Iskandar, a passionate software developer with a love for creating amazing w
 
 🚀 My skills and interests:
 - Front-end Development: HTML, CSS, JavaScript, React, Vue, NextJS
-- Back-end Development: PHP, Laravel, 
+- Back-end Development: PHP, Laravel
 - Database Management: MySQL, Firebase
-- DevOps: Docker, CI/CD, Git
+- DevOps: Docker, CI/CD, Git, JIRA, Microsoft Azure, Alibaba
 
 📫 How to reach me:
 - LinkedIn: [Iskandar Isman](https://www.linkedin.com/in/iskandar-isman/)
