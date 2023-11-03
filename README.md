@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-Hello, I'm Iskandar, a passionate software developer with a love for creating amazing web applications. I enjoy turning ideas into reality and crafting elegant solutions to complex problems.
-
-🔭 I’m currently working on:
-- [Project 1](link): A description of what this project is about.
-- [Project 2](link): A description of what this project is about.
-- ...
-
-🌱 I’m currently learning:
-- [Technology/Tool 1](link): A brief description of what you're learning.
-- [Technology/Tool 2](link): A brief description of what you're learning.
-- ...
+I'm Iskandar, a passionate software developer with a love for creating amazing web applications. I enjoy turning ideas into reality and crafting elegant solutions to complex problems.
 
 🚀 My skills and interests:
-- Front-end Development: HTML, CSS, JavaScript, React, Vue
-- Back-end Development: PHP, Laravel Framework
-- Database Management: MySQL, MongoDB, Firebase
+- Front-end Development: HTML, CSS, JavaScript, React, Vue, NextJS
+- Back-end Development: PHP, Laravel, 
+- Database Management: MySQL, Firebase
 - DevOps: Docker, CI/CD, Git
 
 📫 How to reach me:
@@ -23,9 +13,7 @@ Hello, I'm Iskandar, a passionate software developer with a love for creating am
 
 💬 Let's connect and collaborate on exciting projects!
 
-🌐 Check out my portfolio website: [Your Portfolio Website](link)
-
-👨‍💻 Explore my projects below or visit my [GitHub repositories](https://github.com/iskandar93) for more!
+👨‍💻 Explore my projects below or visit my [GitHub repositories](https://github.com/iskandar93?tab=repositories) for more!
 
 ---
 
